@@ -1,12 +1,12 @@
-# it s using sample data.
+# it s using mysql
 import mysql.connector
 from decimal import Decimal
 class Bank:
-    db = {
-        "user1": {"password": 1234, "balance": 5000},
-        "user2": {"password": 345, "balance": 3000},
-        "user3": {"password": 7849, "balance": 1000}
-    }
+    # db = {
+    #     "user1": {"password": 1234, "balance": 5000},
+    #     "user2": {"password": 345, "balance": 3000},
+    #     "user3": {"password": 7849, "balance": 1000}
+    # }
 
     def __init__(self, user):
         self.user = user
