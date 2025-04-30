@@ -1,4 +1,4 @@
-# it s using mysql
+# it s using mysqll
 import mysql.connector
 from decimal import Decimal
 class Bank:
