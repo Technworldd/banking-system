@@ -1,3 +1,4 @@
+# it s using sample data.
 import mysql.connector
 from decimal import Decimal
 class Bank:

@@ -1,3 +1,4 @@
+# it is using Mysql 
 class Bank:
     # Database with username, password, and balance for each user
     db = {
