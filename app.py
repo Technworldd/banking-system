@@ -1,4 +1,4 @@
-# it is using Mysql 
+# it is using sample data 
 class Bank:
     # Database with username, password, and balance for each user
     db = {
